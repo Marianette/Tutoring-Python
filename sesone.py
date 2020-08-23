@@ -10,6 +10,8 @@
         Print
         Strings
         Type Checking
+
+    @Source: https://www.learnpython.org
 """
 
 #Demo a simple function
