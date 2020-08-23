@@ -1,3 +1,17 @@
+"""@Author: Maria DaRocha
+    Date: 23-8-2020
+
+    Title: Python Tutoring Session One
+    @Topics: Python 3 Basics
+        Arithmatic Operators
+        Boolean Operators
+        Importing
+        Lists
+        Print
+        Strings
+        Type Checking
+"""
+
 #Demo a simple function
 def run_basic_tasks(): 
     #Strings
@@ -130,8 +144,41 @@ def list_fun():
     # prints out My List: [x, y, z, etc..]
     print("My list: %s" % mylist)
 
-# Demo arrays
+
 # Demo boolean operators
-#def boolean_fun():
+def boolean_fun():
+    x = 2
+    # Equal to
+    print(x == 2) # prints out True
+    print(x == 3) # prints out False
+    # Less than
+    print(x < 3) # prints out True
+    # Greater than
+    print(x > 3) # prints out False
+    # NOT equal to
+    print(x != 3) # prints out True
+    
+    # And operator
+    if x == 2 and x < 3: # True
+        print(x == 2 and x > 3) # False
+
+    # In operator
+    name = "John"
+    if name in ["John", "Rick"]:
+        print("Your name is either John or Rick.")
+
+    # Is operator
+    x = [1,2,3]
+    y = [1,2,3]
+    print(x == y) # Prints out True
+    print(x is y) # Prints out False
+
+    # Not operator
+    isthislit = (x is y) # False -> This is not lit
+    print(not isthislit) # Prints out True -> Now it's lit again
+    print((not True) == (False)) # Prints out True -> Not true is false
+
+# IN THE NEXT SECTION...
+# Loops
 # Demo save function
 # Demo load function

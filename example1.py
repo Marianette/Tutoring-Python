@@ -1,3 +1,16 @@
+"""@Author: Maria DaRocha
+    Date: 23-8-2020
+
+    Title: Python Tutoring Session One
+    @Topics: Python 3 Basics
+        Arithmatic Operators
+        Boolean Operators
+        Importing
+        Lists
+        Print
+        Strings
+        Type Checking
+"""
 # Ways to import Import a LOCAL files or libraries
 # import sesone
 # import sesone as one
@@ -12,6 +25,7 @@ from sesone import run_basic_tasks as rbt
 import sesone as ses
 #ses.operator_fun()
 #ses.type_checking()
-ses.print_fun()
+#ses.print_fun()
 #ses.list_fun()
+ses.boolean_fun()
 
