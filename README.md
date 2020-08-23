@@ -1,2 +1,2 @@
 # Tutoring-Python
- basic tutorials
+ A set of basic instructions and fundamentals for Python 3
