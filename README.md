@@ -2,11 +2,14 @@
  A set of basic instructions and fundamentals for Python 3
 
 ## Getting Started
+Load the notebook basics here:
+https://hub.mybinder.turing.ac.uk/user/ipython-ipython-in-depth-ub635hrz/notebooks/binder/Index.ipynb
+
 To follow along with this tutorial, you'll need Python 3 and a code editor.
 I use (and recommend): Anaconda [https://www.anaconda.com/products/individual]  
 Follow the instructions (above). Return once installation is complete.
 
-## Lecture Files:
+## Other Files:
 
 **sdg-demo.ipynb**: Part of a presentation delivered to VUW government post-grad students 03/09/2020  
     - Jupyter Notebook Filetype (recommended download: Anaconda)  
